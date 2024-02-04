@@ -1,4 +1,4 @@
-package com.javarush.task.task01.task0107;
+package Level01.task0107;
 
 /* 
 Комментарии излишни

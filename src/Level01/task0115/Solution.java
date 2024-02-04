@@ -1,4 +1,4 @@
-package com.javarush.task.task01.task0115;
+package Level01.task0115;
 
 /* 
 Ну это… С новым годом!

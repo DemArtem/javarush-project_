@@ -1,13 +1,12 @@
-package com.javarush.task.task01.task0105;
+package Level01.task0109;
 
 /* 
-Объявляем переменные
+«Я по объявлению…»
 */
 
 public class Solution {
     public static void main(String[] args) {
         //напишите тут ваш код
-        String name, city;
-        int age;
+        int a = 2, b = 5;
     }
 }

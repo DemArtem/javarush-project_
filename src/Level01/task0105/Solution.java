@@ -1,12 +1,13 @@
-package com.javarush.task.task01.task0103;
+package Level01.task0105;
 
 /* 
-Мой юный друг
+Объявляем переменные
 */
 
 public class Solution {
     public static void main(String[] args) {
         //напишите тут ваш код
-        System.out.println("3118");
+        String name, city;
+        int age;
     }
 }
