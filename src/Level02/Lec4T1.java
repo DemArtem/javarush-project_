@@ -1,6 +1,6 @@
 package Level02;
 
-public class Task41 {
+public class Lec4T1 {
 
 /*
 Полнометражная картина

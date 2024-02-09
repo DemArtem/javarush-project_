@@ -1,6 +1,6 @@
 package Level02;
 
-public class Task51 {
+public class Lec5T1 {
     public static void main(String[] args) {
         String word = "jh";
         String phrase = "j6h";

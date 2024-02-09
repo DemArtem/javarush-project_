@@ -4,7 +4,7 @@ package Level02;
 Последняя цифра числа
 */
 
-public class Task42 {
+public class Lec4T2 {
 
     public static void main(String[] args) {
         int number = 546;
